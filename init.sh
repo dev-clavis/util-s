@@ -11,3 +11,6 @@ chmod +x mark1.sh
 chmod +x mark2.sh
 chmod +x sc.sh
 chmod +x ln.sh
+
+touch ~/.tmux.conf
+echo "set -g mouse on" >> ~/.tmux.conf
