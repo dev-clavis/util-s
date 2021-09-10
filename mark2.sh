@@ -1,1 +1,1 @@
-roslaunch mira3d_2dnav ar_tracker.launch
+roslaunch mira3d_2dnav markers.launch
